@@ -1,8 +1,3 @@
-import firebaseConfig from './config.js';
-
-// Initialize Firebase
-firebase.initializeApp(firebaseConfig);
-
 const links = document.querySelectorAll('.link');
 const sections = document.querySelectorAll('section');
 
@@ -23,7 +18,18 @@ links.forEach((link, i) => {
     })
 })
 
+const firebaseConfig = {
+    apiKey: "AIzaSyAyYJierK8A6REwQOOCzHBRv7dquOgINnM",
+    authDomain: "portfolio-tutorial-ee6e7.firebaseapp.com",
+    projectId: "portfolio-tutorial-ee6e7",
+    storageBucket: "portfolio-tutorial-ee6e7.firebasestorage.app",
+    messagingSenderId: "845742522208",
+    appId: "1:845742522208:web:9f85c5e6a84b6094e92805",
+    measurementId: "G-7XSH8P7BBZ"
+};
 
+// Initialize Firebase
+firebase.initializeApp(firebaseConfig);
 
 // Ensure Firebase is loaded before initializing
 if (!firebase.apps.length) {
