@@ -64,7 +64,6 @@ body{
 .hero-heading{
     color: #fff;
     font-size: 120px;
-    text-transform: capitalize;
     font-weight: 300;
 }
 
@@ -485,6 +484,13 @@ body{
     border: none;
     border-radius: 10px;
     cursor: pointer;
+    font-weight: bold;
+}
+
+.form-submit-btn:hover {
+    background-color: #fff;
+    color: #ff4f4f;
+   
 }
 
 .map{
