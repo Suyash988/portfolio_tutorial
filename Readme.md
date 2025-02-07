@@ -287,8 +287,11 @@ A modern and responsive portfolio website showcasing projects, skills, and conta
 ```
 
 </details>
+
 <details>
-<summary><code>Skills CSS</code></summary>
+<summary><code>Skills Section CSS</code></summary>
+
+```
 .skill-section{
     position: relative;
     margin: 100px 0;
@@ -380,16 +383,30 @@ A modern and responsive portfolio website showcasing projects, skills, and conta
     border-color: #4fdfff;
     color: #4fdfff;
 }
+```
 </details>
 <details>
-<summary><code>About Section CSS</code></summary>
+<summary><code>Skills Section CSS</code></summary>
+
+```
+
+```
 </details>
 <details>
-<summary><code>About Section CSS</code></summary>
+<summary><code>Skills Section CSS</code></summary>
+
+```
+
+```
 </details>
 <details>
-<summary><code>About Section CSS</code></summary>
+<summary><code>Skills Section CSS</code></summary>
+
+```
+
+```
 </details>
+
 
 ## Installation
 
