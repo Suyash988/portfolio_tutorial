@@ -39,13 +39,13 @@ A modern and responsive portfolio website showcasing projects, skills, and conta
    - Integrated map
    - Form validation styling
 
+## <a name="snippets">🕸️ Snippets</a>   
+
 ## Installation
 
 1. Clone the repository:
 ```bash
 git clone https://github.com/your-username/portfolio_tutorial.git
 
-
-## <a name="snippets">🕸️ Snippets</a>
 
 
