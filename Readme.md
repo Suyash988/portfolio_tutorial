@@ -46,5 +46,6 @@ A modern and responsive portfolio website showcasing projects, skills, and conta
 git clone https://github.com/your-username/portfolio_tutorial.git
 
 
+## <a name="snippets">🕸️ Snippets</a>
 
 
